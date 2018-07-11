@@ -16,4 +16,4 @@ A function should do one thing and have a clearly defined goal, i.e. the actions
 > High-level modules should not depend on low-level modules. Both should depend on abstractions.
 Abstractions should not depend upon details. Details should depend on abstractions.
 
-This principle is as a result of strictly following **Liskov substitution** and **Open-closed** priniciples.
+This principle is as a result of strictly following **Liskov substitution** and **Open-closed** principles.
