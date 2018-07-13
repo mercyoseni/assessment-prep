@@ -1,4 +1,6 @@
 def bubble_sort(array)
+  return array if array.size <= 1
+
   swap = true
   n = array.length
 

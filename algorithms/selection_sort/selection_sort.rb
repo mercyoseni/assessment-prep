@@ -1,4 +1,6 @@
 def selection_sort(array)
+  return array if array.size <= 1
+
   n = array.length - 1
 
   n.times do |i|

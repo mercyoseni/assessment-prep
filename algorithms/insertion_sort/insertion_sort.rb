@@ -1,4 +1,6 @@
 def insertion_sort(array)
+  return array if array.size <= 1
+
   n = array.length
 
   n.times do |j|
