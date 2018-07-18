@@ -1,0 +1,2 @@
+### Algorithms and Data structures
+Data structures are ways to organize and store data in a specialized format so that operations can be performed on the data in an effective way. We have primitive and abstract data structures. Primitive data structures are the basic or built-in data structures, e.g. integer, character, float, boolean etc. while abstract data structures are used to store large and connected data, e.g. linked list, tree, graph, stack, queue etc. Data structures can also be classified as linear, non-linear, homogeneous, non-homogeneous, static or dynamic.
